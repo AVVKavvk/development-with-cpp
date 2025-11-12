@@ -1,0 +1,7 @@
+output**
+
+**.o
+**/main
+
+https/nlohmann/json.hpp
+https/httplib.h
